@@ -70,7 +70,7 @@ Assurez-vous d'avoir installé :
 1.  **Cloner le dépôt**
     Récupérez le code source sur votre machine :
     ```bash
-    git clone [https://github.com/Felipe-LNGS/rakuten-clone.git](https://github.com/Felipe-LNGS/rakuten-clone.git)
+    git clone https://github.com/Felipe-LNGS/Page-Produit-Rakuten.git
     cd rakuten-clone
     ```
 
