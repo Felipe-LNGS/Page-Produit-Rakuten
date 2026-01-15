@@ -71,7 +71,7 @@ Assurez-vous d'avoir installé :
     Récupérez le code source sur votre machine :
     ```bash
     git clone https://github.com/Felipe-LNGS/Page-Produit-Rakuten.git
-    cd rakuten-clone
+    cd Page-Produit-Rakuten
     ```
 
 2.  **Installer les dépendances**
